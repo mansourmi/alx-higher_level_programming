@@ -1,1 +1,1 @@
-this is the first readme in the new alx higher level program
+this is the first readme in the new alx higher level programming repo
