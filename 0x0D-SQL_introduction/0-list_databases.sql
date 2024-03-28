@@ -1,2 +1,3 @@
 -- script that lists all databases of my MySQL serve
-SHOW DATABASE;
+SELECT name
+FROM master.sys.databases;
