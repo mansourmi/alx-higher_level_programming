@@ -1,2 +1,2 @@
---scroopt that add new row
+-- scroopt that add new row
 INSERT INTO `first_table` (`id`, `name`) VALUES (89, "Best School");
